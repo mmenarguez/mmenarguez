@@ -1,5 +1,8 @@
 ## Hi, I’m Miriam!👋
 
+
+### [En construcción 👷 -> Próximamente iré subiendo mis proyectos!]
+
 ### Sobre mí
 🧠 Estudiante del CFGS - Desarrollo de Aplicaciones Web.
 
